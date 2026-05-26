@@ -1,6 +1,6 @@
 PROJECT: YOUTUBE HOME PAGE -REPLICA
 
-Note:browsers may flag my page as unsafe this is because my site is a local one and is not in a official domain in a server i have checked for malicious threats and it is null so please do proceed and ignore the warning
+Note:browsers may flag my page as unsafe this is because my site is a local one and is not in a official domain in a server i have checked for malicious threats and it is null so please do proceed and ignore the warning it does not collect any perosnal information,so phishing is impossible since it is a static site not javascript used ,you can also check the code ,there is no javascript used and im hosting form github so no issue
 
 In this project i have created a replica of youtube home page,this is my first time coding in html and css, honestly i thought that html and css would be hard,but turns out it is easy once i learn it ,i had fun while working on this project.but learning html and css did take a lot of time but all the codes were so alligned with english that it was easy to understand,i learnt about specificity in html and also elements like button,div ,a and so on ,also i learned how to attach a link to a element,to create grids in the body of the html page using grid or flexbox,learned how to create title for a project such that if we open in browser it shows up in the tab,and also to attach picture in the places we ant in the elements,it is my first project in html and css and i hope to do better projects in the future.
 
